@@ -15,9 +15,6 @@
 
 > A modern web-based campus safety system built to enhance student protection, streamline emergency communication, and improve real-time alerting within educational institutions.
 
----
-
----
 **To visit in live** - [ https://safe-walk-ci8g.onrender.com/ ]
 
 ---
