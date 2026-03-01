@@ -10,6 +10,8 @@
   <span>RIT Safe</span>
 </div>
 
+---
+
 ### Smart Campus Safety & Emergency Response Platform
 
 > A modern web-based campus safety system built to enhance student protection, streamline emergency communication, and improve real-time alerting within educational institutions.
