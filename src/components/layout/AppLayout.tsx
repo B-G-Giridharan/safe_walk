@@ -33,9 +33,9 @@ export function AppLayout({ children, showHeader = true }: AppLayoutProps) {
               onClick={() => navigate("/home")}
             >
               <img
-               src="https://angelgroups.s3.amazonaws.com/uploads/2021/05/images_WalkSafe-Logo1614949609.jpg"
+               src="https://www.facultyplus.com/wp-content/uploads/2020/11/Rit-logo.png"
                alt="WalkSafe Logo"
-               className="w-10 h-10 object-contain"
+               className="w-44 h-10 object-contain dark:invert"
               />
               
 
