@@ -83,40 +83,6 @@ safe_walk/
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/safe_walk.git
-```
-
-### 2️⃣ Navigate to the Project Directory
-
-```bash
-cd safe_walk
-```
-
-### 3️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-### 4️⃣ Start Development Server
-
-```bash
-npm run dev
-```
-
-App will be available at:
-
-```
-http://localhost:5173
-```
-
----
-
 ## 🎨 UI & Design Principles
 
 * Clean, minimal interface
@@ -149,36 +115,28 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-*Add screenshots here after uploading them to your repository.*
+(public/login.png)
 
-Example:
+<img width="1882" height="871" alt="image" src="https://github.com/user-attachments/assets/28d5de5d-d37f-4f35-bfda-072c3ca1a2e7" />
 
 ```
-![Dashboard Screenshot](public/dashboard.png)
+(public/dashboard.png)
+<img width="1902" height="899" alt="image" src="https://github.com/user-attachments/assets/bf56c6e1-c9c6-4df4-9daa-c3a060b33621" />
+
 ```
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author (developer)
 
-**Your Name**
-Department / Institution
-Year of Study
+**B G Giridharan**
+CSE/RAJALAKSHMI INSTITUTE OF TECHNOLOGY
+2nd YEAR 2024 BATCH
 
 ---
 
 ## 📄 License
 
-This project is developed for academic and demonstration purposes.
+This project is developed for College purposes.
 
 ---
-
-# 🌟 Portfolio Impact Statement
-
-RIT Safe showcases:
-
-* Strong React fundamentals
-* Scalable component design
-* Clean UI implementation
-* Modern frontend development practices
-* Git & GitHub workflow management
