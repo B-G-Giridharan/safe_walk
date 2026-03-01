@@ -1,7 +1,15 @@
 
 ---
 
-<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/3f58cf6a-0ef3-45fa-afde-a324be305b4f" /> RIT Safe
+<div style="display: flex; align-items: center; gap: 8px;">
+  <img 
+    src="https://github.com/user-attachments/assets/3f58cf6a-0ef3-45fa-afde-a324be305b4f"
+    width="24"
+    height="24"
+    alt="logo"
+  />
+  <span>RIT Safe</span>
+</div>
 
 ### Smart Campus Safety & Emergency Response Platform
 
