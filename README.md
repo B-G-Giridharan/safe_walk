@@ -1,13 +1,15 @@
 
 ---
 
-# 🛡️ RIT Safe
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/3f58cf6a-0ef3-45fa-afde-a324be305b4f" /> RIT Safe
 
 ### Smart Campus Safety & Emergency Response Platform
 
 > A modern web-based campus safety system built to enhance student protection, streamline emergency communication, and improve real-time alerting within educational institutions.
 
 ---
+
+
 
 ## 📖 About The Project
 
