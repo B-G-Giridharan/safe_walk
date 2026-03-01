@@ -1,6 +1,6 @@
 ---
 
-<div style="display: flex; align-items: center; gap: 8px;">
+<div style="display: flex; align-items: center; gap: 8 px;">
   <img 
     src="https://github.com/user-attachments/assets/3f58cf6a-0ef3-45fa-afde-a324be305b4f"
     width="24"
