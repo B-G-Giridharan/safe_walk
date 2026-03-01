@@ -1,4 +1,3 @@
-
 ---
 
 <div style="display: flex; align-items: center; gap: 8px;">
@@ -31,8 +30,6 @@ The application focuses on:
 * Clean & accessible UI
 * Secure navigation flow
 * Dark/Light theme support
-
-This project demonstrates strong frontend architecture, reusable component design, and modern UI/UX practices.
 
 ---
 
