@@ -147,9 +147,9 @@ export default function Login() {
         <div className="w-full max-w-sm space-y-8">
           <div className="text-center space-y-4">
             <img
-              src="https://angelgroups.s3.amazonaws.com/uploads/2021/05/images_WalkSafe-Logo1614949609.jpg"
+              src="https://www.facultyplus.com/wp-content/uploads/2020/11/Rit-logo.png"
               alt="WalkSafe Logo"
-              className="w-24 h-24 mx-auto object-contain"
+              className="w-84 h-24 mx-auto object-contain dark:invert"
             />
             <div>
               <h1 className="text-3xl font-bold">RIT Safe Campus</h1>
