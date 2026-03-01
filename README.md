@@ -102,16 +102,6 @@ safe_walk/
 
 ---
 
-## 📌 Future Roadmap
-
-* 📍 Live Location Tracking
-* 📢 Admin Emergency Broadcast Panel
-* 📊 Incident Reporting Dashboard
-* 📱 Full Mobile Optimization
-* 🔔 Push Notification Integration
-* 🔐 Backend Authentication System
-
----
 
 ## 📸 Screenshots
 
@@ -123,6 +113,7 @@ safe_walk/
 ---
 ```
 (public/dashboard.png)
+
 <img width="1902" height="899" alt="image" src="https://github.com/user-attachments/assets/bf56c6e1-c9c6-4df4-9daa-c3a060b33621" />
 ```
 ---
