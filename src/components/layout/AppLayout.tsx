@@ -33,17 +33,18 @@ export function AppLayout({ children, showHeader = true }: AppLayoutProps) {
               onClick={() => navigate("/home")}
             >
               <img
-               src="https://angelgroups.s3.amazonaws.com/uploads/2021/05/images_WalkSafe-Logo1614949609.jpg"
-               alt="WalkSafe Logo"
-               className="w-10 h-10 object-contain"
+               src="https://www.facultyplus.com/wp-content/uploads/2020/11/Rit-logo.png"
+               
+               alt="WalkSafe Logo" width="500"
+               className="w-44 h-10 object-contain dark:text-white dark:invert"
               />
               
 
 
 
               <div>
-                <h1 className="font-display text-lg font-semibold leading-tight">RIT Safe</h1>
-                <p className="text-xs text-muted-foreground">Campus Safety</p>
+                <h1 className="font-display text-lg font-semibold leading-tight text-foreground dark:text-white">RIT Safe</h1>
+                <p className="text-xs dark:text-white">Campus Safety</p>
               </div>
             </div>
             <div className="flex items-center gap-2">
